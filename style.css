@@ -1,7 +1,18 @@
-.logo{
-    border: solid 2px black;
-    font-family: 'Times New Roman', Times, serif;
+/* Container para la web */
+.container{
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
 }
+/* Barra de Menu */
+.logo{
+    width: 5.5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    border: solid 4px black;
+    font-family: 'Impact', sans-serif
+}
+/* Barra de Menu */
 .nav-ul{
     display: flex;
     justify-content: center;
