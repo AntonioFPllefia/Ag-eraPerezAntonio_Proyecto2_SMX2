@@ -1,0 +1,9 @@
+.logo{
+    border: solid 2px black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
