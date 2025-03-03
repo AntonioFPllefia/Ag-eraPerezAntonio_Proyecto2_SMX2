@@ -57,7 +57,7 @@
     margin-top: 10px;
     color: black;
 }
-/* Tipos de Coches */
+/* Sección 2 */
 .section-2{
     width: 1300px;
     margin-left: auto;
@@ -74,11 +74,14 @@
     display: flex;
     justify-content: center;
 }
+
 h3{
     display: flex;
     justify-content: center;
     color: whitesmoke;
 }
+/* Final de la Sección 2 */
+/* Sección 3 */
 .section-3{
     width: 1300px;
     margin-left: auto;
@@ -102,4 +105,20 @@ h4{
 .images-2{
     display: flex;
     justify-content: center;
+}
+h5{
+    display: flex;
+    justify-content: center;
+}
+/* Final de la Sección 3 */
+
+.section-4{
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagesDOS{
+    display: flex;
+    justify-content: flex-end;
 }
