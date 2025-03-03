@@ -111,14 +111,33 @@ h5{
     justify-content: center;
 }
 /* Final de la Sección 3 */
-
+/* Principio de la Sección 4 */
 .section-4{
+    display: flex;
+    justify-content: end;
     width: 1300px;
     margin-left: auto;
     margin-right: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
-.imagesDOS{
+h6{
+    font-size: 16px;
+}
+.circle{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.circle p{
+    width: 80%;
+}
+/* Final de la Sección 4 */
+/* Principio de la Sección 5 */
+p{
+    font-size: ;
 }
